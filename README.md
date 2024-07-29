@@ -1,8 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCD0FE&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCD0FE&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+My+name+is+Marcelo+Antonio;I'm+18+years+old;I+am+from+Florianopolis,+SC,+Brazil;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
 <div align="center">  
 
   
@@ -12,6 +9,7 @@
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=blue)
 
  
 ### Tools:
@@ -19,16 +17,16 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![VMware](https://img.shields.io/badge/VMware-0D1117?style=for-the-badge&logo=VMware&logoColor=white)
 
 
 ### Other Knowledge:
-![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=0D1117)
-![VMware](https://img.shields.io/badge/VMware-0D1117?style=for-the-badge&logo=VMware&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=0D1117)&nbsp;
 ![Ubunto](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=blue)
 
 
 ### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=blue)&nbsp;
+![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCD0FE&height=120&section=footer"/>
