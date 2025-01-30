@@ -14,11 +14,14 @@
 
  
 ### Tools:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Arch](https://img.shields.io/badge/Arch%20Linux-0D1117?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-0D1117?style=for-the-badge&logo=VMware&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+
 
 
 ### Other Knowledge:
