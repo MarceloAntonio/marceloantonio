@@ -15,22 +15,24 @@
  
 ### Tools:
 
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=111111)&nbsp;
 ![Arch](https://img.shields.io/badge/Arch%20Linux-0D1117?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-0D1117?style=for-the-badge&logo=VMware&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0d1117.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)&nbsp;
 
 
 
 ### Other Knowledge:
-![Postgres](https://img.shields.io/badge/postgres-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=316192)
-![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Bash Script](https://img.shields.io/badge/bash_script-0d1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-0d1117.svg?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/react-0d1117.svg?style=for-the-badge&logo=react&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0d1117.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCD0FE&height=120&section=footer"/>
